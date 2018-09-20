@@ -1,0 +1,16 @@
+{
+  "prefix" : "store.api.91160.com",
+  "nodes" : [
+              {
+                "url" : "/v1/Thirdgoods/getFromDYF?token=0f547b95d019bdf65453a3d883d0783b&goods_id=113814",
+                "APIMark" : "getFromDYF",
+                "introduce" : "从大药房获取商品信息"
+              },
+    {
+      "url" : "/v1/Thirdgoods/getFromDYF?token=0f547b95d019bdf65453a3d883d0783b&goods_id=113814",
+      "APIMark" : "getFromDYF",
+      "introduce" : "从大药房获取商品信息"
+    }
+  ]
+}
+
